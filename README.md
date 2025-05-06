@@ -1,7 +1,7 @@
 # InitGit-TP1
 Projet collaboratif pour apprendre Git
 
-Fiona 
-Julia 
-Nadhifat 
-Jephthina 
+Fiona : owner
+Julia : mainteneur
+Nadhifat : dev1
+Jephthina :dev2
